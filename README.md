@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Maruf Hasan  
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on: **BinaryFetch** (a Windows neofetch-like tool)  
-- 🌱 I’m learning: **C++, Python, Git, Linux **  
-- 🔦 Interests: **Programming, os exploration, experiments**  
-- 💬 Ask me about: **Linux, GitHub, C++, Python**  
-- ⚡ Fun fact: I've experienced on Unreal Engine Game development 👓  
+- 🔭 **Current Project:** Developing **BinaryFetch**, a Windows-based system information tool inspired by Neofetch.  
+- 🌱 **Learning:** Expanding knowledge in **C++, Python, Git, and Linux**.  
+- 🔦 **Interests:** **Software development, operating system exploration, and Linux experimentation**.  
+- 💬 **Ask Me About:** **Linux, GitHub, C++, and Python**.  
+- ⚡ **Fun Fact:** I have experience in **Unreal Engine game development**.
 
 ---
 
