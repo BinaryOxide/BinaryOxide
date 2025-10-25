@@ -43,3 +43,6 @@
 ---
 
 <!-- ✨ *If you like my work, give a ⭐ to my repos!*  -->
+
+![Green GIF](https://github.com/BinaryOxide/BinaryOxidegreen.gif)
+
