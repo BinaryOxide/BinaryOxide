@@ -1,5 +1,5 @@
 
-![Alt text](Banner_main.png)
+![Alt text](banner_main.png)
 
 # BinaryOxide~
 
