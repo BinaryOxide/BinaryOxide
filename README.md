@@ -1,48 +1,45 @@
 
 ![Alt text](banner2.png)
 
-# 👋 Hi, I'm Maruf Hasan  
+# BinaryOxide~
 
-## 🧑‍💻 About Me
-- 🔭 **Current Project:** Developing **BinaryFetch**, a Windows-based system information tool inspired by Neofetch.  
-- 🌱 **Learning:** Expanding knowledge in **C++, Python, Git, and Linux**.  
-- 🔦 **Interests:** **Software development, operating system exploration, and Linux experimentation**.  
-- 💬 **Ask Me About:** **Linux, GitHub, C++, and Python**.  
-- ⚡ **Fun Fact:** I have experience in **Unreal Engine game development**.
+A developer-driven space focused on building lightweight tools, experimenting with system internals, and exploring how software interacts with hardware.  
+Projects here emphasize clarity, performance, and a deep curiosity for operating systems.
 
 ---
 
-## 🛠 Tech Stack
-| Area       | Tools |
-|------------|-----------------------------|
-| Languages  | C++, Python, Bash |
-| Tools      | VS Code, Git, GitHub, Unreal Engine |
-| OS         | Windows 11, Arch Linux 🐧, ubuntu |
- 
+### 🧭 Current Focus
 
-
-
-
+- 🔭 Developing **BinaryFetch** — a modern Windows system information tool inspired by Neofetch  
+- 🌱 Expanding proficiency in C++, Python, Git, and Linux  
+- 🧩 Experimenting with OS behavior, optimization, and scripting  
+- 🎮 Exploring Unreal Engine workflows and low-level engine mechanics  
 
 ---
 
-<!-- ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufHasan&show_icons=true&theme=radical)  
+### 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHasan&layout=compact&theme=radical)  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarufHasan&theme=radical)  
-
---- -->
-
-## 🌐 Connect with Me
-<!-- - 🐦 Twitter: [@yourhandle](https://twitter.com/) -->
-- 📷 Instagram: [https://www.instagram.com/binary.oxide/)  
-<!-- 💻 Project: [BinaryFetch](https://github.com/MarufHasan/BinaryFetch) -->  
+| Domain | Tools / Languages |
+|-------|-------------------|
+| **Languages** | C++, Python, Bash |
+| **Tools** | VS Code, Git, GitHub |
+| **Operating Systems** | Windows 11, Arch Linux 🐧, Ubuntu |
+| **Engines** | Unreal Engine |
 
 ---
 
-<!-- ✨ *If you like my work, give a ⭐ to my repos!*  -->
+### 🎯 Core Interests
 
-![Green GIF](https://github.com/BinaryOxide/BinaryOxidegreen.gif)
+- System programming  
+- Hardware & OS-level information retrieval  
+- Cross-platform tool building  
+- Linux tinkering & desktop environment customization  
+- Clean code design and performance-focused development  
 
+---
+
+### 🌐 Connect
+
+- 📸 Instagram: [@studiobinaryoxide](https://www.instagram.com/studiobinaryoxide/)  
+
+> This space is maintained by a creator who enjoys crafting meaningful tools, learning deeply, and pushing boundaries—quietly, consistently, and with purpose.
