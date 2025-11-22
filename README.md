@@ -6,7 +6,7 @@
 A developer-driven space focused on building lightweight tools, experimenting with system internals, and exploring how software interacts with hardware.  
 Projects here emphasize clarity, performance, and a deep curiosity for operating systems.
 
----
+
 
 <img align="left" src="prototype.png" alt="Prototype" width="200">
 
@@ -21,7 +21,7 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 
 <br clear="left">
 
----
+
 
 # 🛠 Tech Stack
 
