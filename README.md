@@ -23,35 +23,8 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 
 
 
-# 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td><b>    x@_<   </b></td>
-    <td align="right">
-      <img src="art13.png" width="30%">
-      <img src="art16.png" width="30%">
-      <img src="art10.png" width="30%">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>C++, Python, Bash</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>VS Code, Git, GitHub</td>
-  </tr>
-  <tr>
-    <td><b>Operating Systems</b></td>
-    <td>Windows 11, Arch Linux 🐧, Ubuntu</td>
-  </tr>
-  <tr>
-    <td><b>Engines</b></td>
-    <td>Unreal Engine</td>
-  </tr>
-</table>
-
+![Alt text](techstack1.png)
 
 ---
 
