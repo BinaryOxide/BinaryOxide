@@ -7,7 +7,7 @@ A developer-driven space focused on building lightweight tools, experimenting wi
 Projects here emphasize clarity, performance, and a deep curiosity for operating systems.
 
 
-![Alt text](techstack1.png)
+![Alt text](techstack3.png)
 <img align="left" src="prototype.png" alt="Prototype" width="200">
 
 ### 🧭 Current Focus
