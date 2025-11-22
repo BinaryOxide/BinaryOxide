@@ -8,16 +8,22 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 
 ---
 
+<img align="left" src="prototype.png" alt="Prototype" width="200">
+
 ### 🧭 Current Focus
 
-- 🔭 Developing **BinaryFetch** — a modern Windows system information tool inspired by Neofetch  
-- 🌱 Expanding proficiency in C++, Python, Git, and Linux  
-- 🧩 Experimenting with OS behavior, optimization, and scripting  
-- 🎮 Exploring Unreal Engine workflows and low-level engine mechanics  
+- 🔭 Developing **BinaryFetch** — a modern Windows system information tool inspired by Neofetch
+- 🌱 Expanding proficiency in **C++**, **Python**, **Git**, and **Linux**
+- 🧩 Experimenting with **OS behavior**, **optimization**, and **scripting** 
+- 🎮 Exploring **Unreal Engine** workflows and low-level engine mechanics
+
+### Recent project : miniPOKER
+
+<br clear="left">
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <table>
   <tr>
@@ -45,7 +51,6 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
     <td>Unreal Engine</td>
   </tr>
 </table>
-
 
 
 ---
