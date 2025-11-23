@@ -1,14 +1,14 @@
 
-![Alt text](full_readme2. png)
+![Alt text](full_readme3.png)
 
 
 
-### 🌐 Connect
+  ### 🌐 Connect
 
-- 📸 Instagram: [@studiobinaryoxide](https://www.instagram.com/studiobinaryoxide/)
-- Email: 2009marufhasanpersonal@gmail.com 
+  - 📸 Instagram: [@studiobinaryoxide](https://www.instagram.com/studiobinaryoxide/)
+  - Email: 2009marufhasanpersonal@gmail.com 
 
-> This space is maintained by a creator who enjoys crafting meaningful tools, learning deeply, and pushing boundaries—quietly, consistently, and with purpose.
+  > This space is maintained by a creator who enjoys crafting meaningful tools, learning deeply, and pushing boundaries—quietly, consistently, and with purpose.
 
 
 
