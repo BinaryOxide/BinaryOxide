@@ -17,7 +17,6 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 - 🧩 Experimenting with **OS behavior**, **optimization**, and **scripting** 
 - 🎮 Exploring **Unreal Engine** workflows and low-level engine mechanics
 
-### Recent project : miniPOKER
 
 <br clear="left">
 
