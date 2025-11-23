@@ -8,22 +8,7 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 
 
 ![Alt text](TechStack3.png)
-<img align="left" src="prototype.png" alt="Prototype" width="200">
-
-### 🧭 Current Focus
-
-- 🔭 Developing **BinaryFetch** — a modern Windows system information tool inspired by Neofetch
-- 🌱 Expanding proficiency in **C++**, **Python**, **Git**, and **Linux**
-- 🧩 Experimenting with **OS behavior**, **optimization**, and **scripting** 
-- 🎮 Exploring **Unreal Engine** workflows and low-level engine mechanics
-
-
-<br clear="left">
-
-
-
-
-
+![Alt text](current_focus.png)
 
 ---
 
