@@ -8,7 +8,7 @@ Projects here emphasize clarity, performance, and a deep curiosity for operating
 
 
 ![Alt text](TechStack3.png)
-![Alt text](current_focus.png)
+![Alt text](current_focus2.png)
 
 ---
 
